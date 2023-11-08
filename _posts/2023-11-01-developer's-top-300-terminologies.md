@@ -1,0 +1,305 @@
+---
+title: "Developer's top 300 terminologies"
+date: 2023-11-08
+---
+
+- Algorithm
+- API (Application Programming Interface)
+- Agile
+- AJAX (Asynchronous JavaScript and XML)
+- Algorithm
+- API (Application Programming Interface)
+- Agile
+- AJAX (Asynchronous JavaScript and XML)
+- Array
+- ASCII (American Standard Code for Information Interchange)
+- Assembly Language
+- Authentication
+- Back-End
+- Big O Notation
+- Binary
+- Bit
+- Block of Code
+- Boolean
+- Bug
+- Byte
+- C (Programming Language)
+- C++ (Programming Language)
+- Cache
+- Class
+- Client-Server
+- Cloud Computing
+- Code
+- Compilation
+- Compiler
+- Computer Science
+- CSS (Cascading Style Sheets)
+- Data
+- Data Structure
+- Database
+- Debugging
+- Declaration
+- Dependency Injection
+- DNS (Domain Name System)
+- DOM (Document Object Model)
+- Encryption
+- Exception
+- File
+- Firewall
+- Front-End
+- Function
+- Git
+- GitHub
+- HTML (Hypertext Markup Language)
+- HTTP (Hypertext Transfer Protocol)
+- IDE (Integrated Development Environment)
+- Inheritance
+- IP Address
+- JavaScript
+- JSON (JavaScript Object Notation)
+- JVM (Java Virtual Machine)
+- Keyword
+- Library
+- Loop
+- Machine Learning
+- Method
+- Namespace
+- Object
+- Open Source
+- Operator
+- Parsing
+- Polymorphism
+- Protocol
+- Python
+- Query
+- RAM (Random Access Memory)
+- Recursion
+- REST (Representational State Transfer)
+- Ruby
+- SDK (Software Development Kit)
+- SQL (Structured Query Language)
+- SSL (Secure Sockets Layer)
+- Stack
+- String
+- Syntax
+- TCP/IP (Transmission Control Protocol/Internet Protocol)
+- Testing
+- UI (User Interface)
+- URL (Uniform Resource Locator)
+- Variable
+- Version Control
+- Virtual Machine
+- Web Development
+- XML (Extensible Markup Language)
+- 404 Error
+- Abstraction
+- Agile Manifesto
+- AJAX (Asynchronous JavaScript and XML)
+- Algorithm
+- API (Application Programming Interface)
+- Argument
+- Array
+- ASCII (American Standard Code for Information Interchange)
+- Assembly Language
+- Authentication
+- Back-End
+- Big O Notation
+- Binary
+- Bit
+- Block of Code
+- Boolean
+- Bug
+- Byte
+- C (Programming Language)
+- C++ (Programming Language)
+- Cache
+- Class
+- Client-Server
+- Cloud Computing
+- Code
+- Compilation
+- Compiler
+- Computer Science
+- CSS (Cascading Style Sheets)
+- Data
+- Data Structure
+- Database
+- Debugging
+- Declaration
+- Dependency Injection
+- DNS (Domain Name System)
+- DOM (Document Object Model)
+- Encryption
+- Exception
+- File
+- Firewall
+- Front-End
+- Function
+- Git
+- GitHub
+- HTML (Hypertext Markup Language)
+- HTTP (Hypertext Transfer Protocol)
+- IDE (Integrated Development Environment)
+- Inheritance
+- IP Address
+- JavaScript
+- JSON (JavaScript Object Notation)
+- JVM (Java Virtual Machine)
+- Keyword
+- Library
+- Loop
+- Machine Learning
+- Method
+- Namespace
+- Object
+- Open Source
+- Operator
+- Parsing
+- Polymorphism
+- Protocol
+- Python
+- Query
+- RAM (Random Access Memory)
+- Recursion
+- REST (Representational State Transfer)
+- Ruby
+- SDK (Software Development Kit)
+- SQL (Structured Query Language)
+- SSL (Secure Sockets Layer)
+- Stack
+- String
+- Syntax
+- TCP/IP (Transmission Control Protocol/Internet Protocol)
+- Testing
+- UI (User Interface)
+- URL (Uniform Resource Locator)
+- Variable
+- Version Control
+- Virtual Machine
+- Web Development
+- XML (Extensible Markup Language)
+- 404 Error
+- Abstraction
+- Agile Manifesto
+- AJAX (Asynchronous JavaScript and XML)
+- Algorithm
+- API (Application Programming Interface)
+- Argument
+- Array
+- ASCII (American Standard Code for Information Interchange)
+- Assembly Language
+- Authentication
+- Back-End
+- Big O Notation
+- Binary
+- Bit
+- Block of Code
+- Boolean
+- Bug
+- Byte
+- C (Programming Language)
+- C++ (Programming Language)
+- Cache
+- Class
+- Client-Server
+- Cloud Computing
+- Code
+- Compilation
+- Compiler
+- Computer Science
+- CSS (Cascading Style Sheets)
+- Data
+- Data Structure
+- Database
+- Debugging
+- Declaration
+- Dependency Injection
+- DNS (Domain Name System)
+- DOM (Document Object Model)
+- Encryption
+- Exception
+- File
+- Firewall
+- Front-End
+- Function
+- Git
+- GitHub
+- HTML (Hypertext Markup Language)
+- HTTP (Hypertext Transfer Protocol)
+- IDE (Integrated Development Environment)
+- Inheritance
+- IP Address
+- JavaScript
+- JSON (JavaScript Object Notation)
+- JVM (Java Virtual Machine)
+- Keyword
+- Library
+- Loop
+- Machine Learning
+- Method
+- Namespace
+- Object
+- Open Source
+- Operator
+- Parsing
+- Polymorphism
+- Protocol
+- Python
+- Query
+- RAM (Random Access Memory)
+- Recursion
+- REST (Representational State Transfer)
+- Ruby
+- SDK (Software Development Kit)
+- SQL (Structured Query Language)
+- SSL (Secure Sockets Layer)
+- Stack
+- String
+- Syntax
+- TCP/IP (Transmission Control Protocol/Internet Protocol)
+- Testing
+- UI (User Interface)
+- URL (Uniform Resource Locator)
+- Variable
+- Version Control
+- Virtual Machine
+- Web Development
+- XML (Extensible Markup Language)
+- 404 Error
+- Abstraction
+- Agile Manifesto
+- AJAX (Asynchronous JavaScript and XML)
+- Algorithm
+- API (Application Programming Interface)
+- Argument
+- Array
+- ASCII (American Standard Code for Information Interchange)
+- Assembly Language
+- Authentication
+- Back-End
+- Big O Notation
+- Binary
+- Bit
+- Block of Code
+- Boolean
+- Bug
+- Byte
+- C (Programming Language)
+- C++ (Programming Language)
+- Cache
+- Class
+- Client-Server
+- Cloud Computing
+- Code
+- Compilation
+- Compiler
+- Computer Science
+- CSS (Cascading Style Sheets)
+- Data
+- Data Structure
+- Database
+- Debugging
+- Declaration
+- Dependency Injection
+- DNS (Domain Name System)
+- DOM (Document Object Model)
