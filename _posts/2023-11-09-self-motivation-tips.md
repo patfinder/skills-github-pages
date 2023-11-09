@@ -1,7 +1,7 @@
 
 [Source](https://www.coursera.org/articles/how-to-motivate-yourself)
 
-To become the best developer, we need to improve each day. And to do that, we need ​striving and motivation.
+To become a top-tier developer, continuous improvement is key. This journey requires both a commitment to strive for excellence and a constant wellspring of motivation.
 
 - Put your goal on the calendar.
 - Make working toward your goal a habit.
