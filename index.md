@@ -1,7 +1,8 @@
-[My github repo](https://github.com/patfinder).
-[My bitbucket repo](https://bitbucket.org/patfinder/).
+[My bitbucket repos](https://bitbucket.org/patfinder/) - Listing some projects I developed.
 
-This page give some introductions about some of my Python, Django, React, Docker, C#/.Net, Postgres, Selenium, MySql, PHP ... projects that I have done.
+[My github repos](https://github.com/patfinder) - Some other projects on github.
+
+This page give some introduction about some of my Python, Django, React, Docker, C#/.Net, Postgres, Selenium, MySql, PHP ... projects that I have done.
 
 # Sample Groceries shopping app
 
