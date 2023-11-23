@@ -2,11 +2,10 @@
 layout: default
 ---
 
-[Link to another page](./another-page.html).
+[My github repo](https://github.com/patfinder).
+[My bitbucket repo](https://bitbucket.org/patfinder/).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+This page give some introductions about some of my Python, Django, React, Docker, C#/.Net, Postgres, Selenium, MySql, PHP ... projects that I have done.
 
 # Sample Groceries shopping app
 
@@ -16,7 +15,19 @@ This app show casing Python/Django, React, MySql and Selenium app development.
 
 > This sample React app will retrieve and display list of Groceries products collected from popular groceries sites like Nofrills, Al Premium, Loblaws ... 
 >
-> Repo: https://github.com/patfinder/groceries-app
+> Repo: [React app](https://github.com/patfinder/groceries-app)
+
+## Groceries Shopping API server (Django/Python)
+
+> The API backend developed using Django for Groceries Shopping app.
+>
+> Repo: [API back end](https://github.com/patfinder/groceries_shopping-backend)
+
+## Groceries Shopping products collector (Selenium)
+
+> The product collecting tool developed using Selenium/Python which collect products for the application.
+>
+> Repo: [Product collector](https://github.com/patfinder/groceries-shopping)
 
 ### Header 3
 
