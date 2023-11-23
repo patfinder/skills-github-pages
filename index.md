@@ -7,7 +7,7 @@ This page give some introductions about some of my Python, Django, React, Docker
 
 This app show casing Python/Django, React, MySql and Selenium app development.
 
-## Groceries Shopping web app (React)
+## Groceries Shopping web app (React/ES6)
 
 > This sample React app will retrieve and display list of Groceries products collected from popular groceries sites like Nofrills, Al Premium, Loblaws ... 
 >
@@ -21,7 +21,7 @@ This app show casing Python/Django, React, MySql and Selenium app development.
 >
 > Repo: [API back end](https://github.com/patfinder/groceries_shopping-backend)
 
-## Groceries Shopping products collector (Selenium)
+## Groceries Shopping products collector (Selenium/Python)
 
 > The product collecting tool developed using Selenium/Python which collect products for the application.
 >
