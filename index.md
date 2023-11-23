@@ -1,7 +1,3 @@
----
-layout: default
----
-
 [My github repo](https://github.com/patfinder).
 [My bitbucket repo](https://bitbucket.org/patfinder/).
 
