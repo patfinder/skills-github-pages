@@ -13,6 +13,8 @@ This app show casing Python/Django, React, MySql and Selenium app development.
 >
 > Repo: [React app](https://github.com/patfinder/groceries-app)
 
+!(Groceries App)[https://github.com/patfinder/groceries-app/raw/assets/groceries-app.png?raw=true]
+
 ## Groceries Shopping API server (Django/Python)
 
 > The API backend developed using Django for Groceries Shopping app.
