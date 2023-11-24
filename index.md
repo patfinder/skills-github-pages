@@ -1,6 +1,6 @@
 [My bitbucket repos](https://bitbucket.org/patfinder/) - Listing some projects I developed.
 
-[My github repos](https://github.com/patfinder) - Some other projects on github.
+[My github repos](https://github.com/patfinder?tab=repositories) - Some other projects on github.
 
 This page give some introduction about some of my Python, Django, React, Docker, C#/.Net, Postgres, Selenium, MySql, PHP ... projects that I have done.
 
