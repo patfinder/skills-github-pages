@@ -1,7 +1,10 @@
 ---
 title: "Developer's top 300 terminologies"
 date: 2023-11-08
+layout: post
+categories: dev common
 ---
+
 |   |   |   |
 |---|---|---|
 |Abstraction|Agile|Algorithm|
