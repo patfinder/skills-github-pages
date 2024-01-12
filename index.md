@@ -1,3 +1,5 @@
+[My dev blog](https://dev.to/patfinder) - My thoughts and experiences on dev.
+
 [My bitbucket repos](https://bitbucket.org/patfinder/) - Listing some projects I developed.
 
 [My github repos](https://github.com/patfinder?tab=repositories) - Some other projects on github.
